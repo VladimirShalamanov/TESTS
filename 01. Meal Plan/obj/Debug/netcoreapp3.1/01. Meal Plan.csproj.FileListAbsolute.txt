@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.genruntimeconfig.cache
